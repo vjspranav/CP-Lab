@@ -1,0 +1,5 @@
+Pleae enter a number to find whether its prime or composite: 128763
+1. Enter 1 to find out whether a number is composite or prime
+2. Enter 2 to find out whether the number is even or odd
+Please enter an option: 1
+The number is composite

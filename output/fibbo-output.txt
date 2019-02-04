@@ -1,0 +1,3 @@
+Please enter the number of terms of The fibbonacci series you want to be printed
+Enter here: 8
+0  1  1  2  3  5  8  13  

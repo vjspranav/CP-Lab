@@ -3,8 +3,7 @@ void main(){
 int m, i, a, d=0;
 printf("Pleae enter a number to find whether its prime or composite: ");
 scanf("%d", &i);
-printf("1. Enter 1 to find out whether a number is composite or prime\n2. Enter 
-2 to find out whether the number is even or odd\nPlease enter an option: " );
+printf("1. Enter 1 to find out whether a number is composite or prime\n2. Enter 2 to find out whether the number is even or odd\nPlease enter an option: " );
 scanf("%d", &m);
 switch(m){
 case 1:
