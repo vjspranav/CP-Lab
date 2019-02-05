@@ -1,0 +1,31 @@
+Enter the number of elements in the array: 6
+Enter a number: 2
+Enter a number: 4
+Enter a number: 6
+Enter a number: 8
+Enter a number: 9
+Enter a number: 4
+
+Your element 1 is: 2
+The index of your element is: 0
+memory address of your element is: -1452300192
+
+Your element 2 is: 4
+The index of your element is: 1
+memory address of your element is: -1452300188
+
+Your element 3 is: 6
+The index of your element is: 2
+memory address of your element is: -1452300184
+
+Your element 4 is: 8
+The index of your element is: 3
+memory address of your element is: -1452300180
+
+Your element 5 is: 9
+The index of your element is: 4
+memory address of your element is: -1452300176
+
+Your element 6 is: 4
+The index of your element is: 5
+memory address of your element is: -1452300172
