@@ -1,0 +1,37 @@
+
+OUTPUT FOR BREAK
+Please enter a number
+8
+Please enter another number
+4
+Please enter another number
+3
+Please enter another number
+5
+Please enter another number
+9
+Please enter another number
+-46
+The sum of all numbers(excluding negative is) is : 29
+OUTPUT FOR CONTINUE
+Please enter a number
+8
+Please enter another number
+4
+Please enter another number
+6
+Please enter another number
+7
+Please enter another number
+2
+Please enter another number
+-4
+Please enter another number
+8
+Please enter another number
+9
+Please enter another number
+3
+Please enter another number
+4
+The sum of all numbers(excluding negative(if any)) is: 51
