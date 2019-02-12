@@ -1,0 +1,13 @@
+Please enter the element of the row 1 coloumn 1: 1
+Please enter the element of the row 1 coloumn 2: 2
+Please enter the element of the row 1 coloumn 3: 5
+Please enter the element of the row 2 coloumn 1: 4
+Please enter the element of the row 2 coloumn 2: 5
+Please enter the element of the row 2 coloumn 3: 8
+Please enter the element of the row 3 coloumn 1: 6
+Please enter the element of the row 3 coloumn 2: 5
+Please enter the element of the row 3 coloumn 3: 2
+ 1  2  5 
+ 4  5  8 
+ 6  5  2 
+Detereminent of entered matrix = 0
