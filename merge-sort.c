@@ -59,7 +59,7 @@ void printArray(int arr[], int n) {
 
 int main()
 {
-	int n;
+    int n;
     printf("\nEnter size of the array:-\n");
     scanf("%d", &n);
 
@@ -69,13 +69,13 @@ int main()
         scanf("%d", &arr[i]);
     }
 
-	printf("\nGiven array :-\n");
+    printf("\nGiven array :-\n");
     printArray(arr, n);
 	
-	mergeSort(arr, 0, n-1);
+    mergeSort(arr, 0, n-1);
 
-	printf("\nSorted array :-\n");
-	printArray(arr, n);
+    printf("\nSorted array :-\n");
+    printArray(arr, n);
 
-	return 0;
+    return 0;
 }
