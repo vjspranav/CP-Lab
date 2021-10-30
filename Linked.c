@@ -1,4 +1,4 @@
-/ C program to merge a linked list into another at 
+// C program to merge a linked list into another at 
 // alternate positions 
 // merge two sorted lists to make a thrid sorted list
 // delete a given node from the linked list 
